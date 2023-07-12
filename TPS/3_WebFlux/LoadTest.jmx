@@ -10,7 +10,7 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="NB_USERS" elementType="Argument">
             <stringProp name="Argument.name">NB_USERS</stringProp>
-            <stringProp name="Argument.value">${__P(NB_USERS,1000)}</stringProp>
+            <stringProp name="Argument.value">${__P(NB_USERS,500)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="PAUSE" elementType="Argument">
